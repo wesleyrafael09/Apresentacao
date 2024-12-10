@@ -20,7 +20,7 @@ Domínio prático em sistemas, incluindo SAP Módulos: PP (Planejamento de Produ
 
 Elaboração de Macros Através do Excel para automatização de processos, cada um desempenhando funções específicas que contribuem para diferentes aspectos da gestão empresarial, desde planejamento e produção até atendimento ao cliente, monitoramento de sistemas.
   
-- 📫 VocÊ me achará através do E-mail: **wesley.rafael09@gmail.com**
+- 📫 Você me achará através do E-mail: **wesley.rafael09@gmail.com**
 
 - 📄 Meu Resumo Profissional está disponível em meu Linkedin: [https://www.linkedin.com/in/wesley-rafeal-da-silva/](https://www.linkedin.com/in/wesley-rafeal-da-silva/)
 
