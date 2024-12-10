@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, Eu sou Wesley Rafael</h1>
-<h3 align="center">
+<h3 align="center"> 
 Profissional com mais de 5 anos de experiência em Tecnologia da Informação (TI), abrangendo diversas áreas como suporte técnico, Service Desk, monitoramento de redes (NOC) e serviços em campo (Field Service). Experiência consolidada em empresas nacionais e multinacionais de médio a grande porte, com enfoque nos setores de tecnologia da informação e suporte varejo.
 
 Com uma base sólida em suporte técnico e análise de dados, somada a habilidades especializadas na resolução de problemas e na extração de insights valiosos de conjuntos de dados complexos, há a capacidade de contribuição para o desenvolvimento e aprimoramento de processos baseados em dados.
 
 Combinação de habilidades técnicas e analíticas permitindo oferecer soluções inovadoras e orientadas a resultados, com um compromisso contínuo, aprimorando habilidades e buscando oportunidades para agregar valor em ambientes dinâmicos e desafiadores.
 
-Conhecimento em sistemas de CRM, Ticket Manager, resolução de problemas, análise de dados e linguagens de programação como SQL e NOSQL, Python e R, além de familiaridade com ferramentas de BI. Capacidade de comunicação efetiva com colegas de equipe e clientes.
+Conhecimento em sistemas de ticketing, resolução de problemas, análise de dados e linguagens de programação como SQL e NOSQL, Python e R, além de familiaridade com ferramentas de BI. Capacidade de comunicação efetiva com colegas de equipe e clientes.
 
 Experiência na manutenção preventiva e corretiva, contribuindo para a redução dos custos operacionais e minimização do tempo de inatividade.
 
@@ -18,15 +18,17 @@ Vivência no suporte help desk, assegurando o bom funcionamento de equipamentos,
 
 Domínio prático em sistemas, incluindo SAP Módulos: PP (Planejamento de Produção), MM (Gestão de Materiais), QM (Gestão da Qualidade), além de SalesForce, NeoAssist, ZenDesk, ServiceNow, Microsoft Dynamics CRM, Move Desk, Trello, Jira, Zenvia, Service Aid e Zabbix,AWS (EC2, S3, Simple Queued Service).
 
-Elaboração de Macros Através do Excel para automatização de processos, cada um desempenhando funções específicas que contribuem para diferentes aspectos da gestão empresarial, desde planejamento e produção até atendimento ao cliente, monitoramento de sistemas.</h3>
-
+Elaboração de Macros Através do Excel para automatização de processos, cada um desempenhando funções específicas que contribuem para diferentes aspectos da gestão empresarial, desde planejamento e produção até atendimento ao cliente, monitoramento de sistemas.
+  
 - 📫 VocÊ me achará através do E-mail: **wesley.rafael09@gmail.com**
 
-- 📄 Meu Resumo Profissional e minhas Experiências estão disponíveis em meu Linkedin: [https://www.linkedin.com/in/wesley-rafeal-da-silva/](https://www.linkedin.com/in/wesley-rafeal-da-silva/)
+- 📄 Meu Resumo Profissional está disponível em meu Linkedin: [https://www.linkedin.com/in/wesley-rafeal-da-silva/](https://www.linkedin.com/in/wesley-rafeal-da-silva/)
+
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wesley-rafeal-da-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wesley-rafeal-da-silva/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wesley-rafeal-da-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesley-rafeal-da-silva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
