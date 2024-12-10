@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Wesley Rafael, atualmente Estou me formando em Data Science Pela Universidade Nove de Julho </h1>
+<h1 align="center">Olá 👋, Eu sou Wesley Rafael</h1>
 <h3 align="center">
 Profissional com mais de 5 anos de experiência em Tecnologia da Informação (TI), abrangendo diversas áreas como suporte técnico, Service Desk, monitoramento de redes (NOC) e serviços em campo (Field Service). Experiência consolidada em empresas nacionais e multinacionais de médio a grande porte, com enfoque nos setores de tecnologia da informação e suporte varejo.
 
