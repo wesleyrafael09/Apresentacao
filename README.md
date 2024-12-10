@@ -22,11 +22,11 @@ Elaboração de Macros Através do Excel para automatização de processos, cada
   
 - 📫 Você me achará através do E-mail: **wesley.rafael09@gmail.com**
 
-- 📄 Meu Resumo Profissional está disponível em meu Linkedin: [https://www.linkedin.com/in/wesley-rafeal-da-silva/](https://www.linkedin.com/in/wesley-rafeal-da-silva/)
+- 📄 Meu Resumo Profissional está disponível em meu Linkedin:
 
 </h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo através:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wesley-rafeal-da-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesley-rafeal-da-silva" height="30" width="40" /></a>
 </p>
