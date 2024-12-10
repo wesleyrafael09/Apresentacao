@@ -22,7 +22,7 @@ Elaboração de Macros Através do Excel para automatização de processos, cada
   
 - 📫 Você me achará através do E-mail: **wesley.rafael09@gmail.com**
 
-- 📄 Meu Resumo Profissional está disponível em meu Linkedin:
+- 📄 Meu Resumo Profissional está disponível em meu Linkedin.
 
 </h3>
 
