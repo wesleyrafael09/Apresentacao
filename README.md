@@ -1,24 +1,17 @@
 <h1 align="center">Olá 👋, Eu sou Wesley Rafael</h1>
 <h3 align="center"> 
-Profissional com mais de 5 anos de experiência em Tecnologia da Informação (TI), abrangendo diversas áreas como suporte técnico, Service Desk, monitoramento de redes (NOC) e serviços em campo (Field Service). Experiência consolidada em empresas nacionais e multinacionais de médio a grande porte, com enfoque nos setores de tecnologia da informação e suporte varejo.
+Profissional com mais de 5 anos de experiência em Tecnologia da Informação (TI), com atuação em suporte técnico, Service Desk, monitoramento de redes (NOC) e serviços em campo (Field Service). Minha trajetória abrange empresas nacionais e multinacionais de médio e grande porte, principalmente nos setores de TI e varejo, com foco em garantir a continuidade operacional e a excelência no atendimento.
 
-Com uma base sólida em suporte técnico e análise de dados, somada a habilidades especializadas na resolução de problemas e na extração de insights valiosos de conjuntos de dados complexos, há a capacidade de contribuição para o desenvolvimento e aprimoramento de processos baseados em dados.
+Nos últimos anos, venho combinando minhas habilidades em suporte técnico com análise de dados. Tenho aplicado habilidades analíticas e técnicas para solucionar problemas, extrair insights valiosos de dados complexos e contribuir para a melhoria contínua de processos.
 
-Combinação de habilidades técnicas e analíticas permitindo oferecer soluções inovadoras e orientadas a resultados, com um compromisso contínuo, aprimorando habilidades e buscando oportunidades para agregar valor em ambientes dinâmicos e desafiadores.
+Domino linguagens de programação como Python, R, SQL e NoSQL, além de ferramentas de BI (Power BI e Pentaho). Também possuo experiência prática com sistemas de ticket manager e plataformas de CRM, como Salesforce, Zendesk, ServiceNow e Dynamics CRM, entre outros. Minha formação inclui conhecimentos sólidos em SAP (PP, MM, QM) e AWS (EC2, S3, SQS), além de habilidades em automação de processos por meio de macros no Excel.
 
-Conhecimento em sistemas de ticketing, resolução de problemas, análise de dados e linguagens de programação como SQL e NOSQL, Python e R, além de familiaridade com ferramentas de BI. Capacidade de comunicação efetiva com colegas de equipe e clientes.
+Entre minhas principais realizações, destaco:
 
-Experiência na manutenção preventiva e corretiva, contribuindo para a redução dos custos operacionais e minimização do tempo de inatividade.
-
-Competência prática na criação de uma base de conhecimento, agilizando resolução de problemas, assim como no desenvolvimento de processos padronizados, promovendo maior eficiência e controle.
-
-Apto no suporte técnico proativo, atendimento personalizado e monitoramento detalhado, identificando e resolvendo problemas antes que afetem as operações, fornecendo insights valiosos para melhorias contínuas.
-
-Vivência no suporte help desk, assegurando o bom funcionamento de equipamentos, além do acompanhamento de reclamações nos órgãos de defesa do consumidor, e suporte a varejo garantindo o funcionamento adequado dos equipamentos de ponto de venda.
-
-Domínio prático em sistemas, incluindo SAP Módulos: PP (Planejamento de Produção), MM (Gestão de Materiais), QM (Gestão da Qualidade), além de SalesForce, NeoAssist, ZenDesk, ServiceNow, Microsoft Dynamics CRM, Move Desk, Trello, Jira, Zenvia, Service Aid e Zabbix,AWS (EC2, S3, Simple Queued Service).
-
-Elaboração de Macros Através do Excel para automatização de processos, cada um desempenhando funções específicas que contribuem para diferentes aspectos da gestão empresarial, desde planejamento e produção até atendimento ao cliente, monitoramento de sistemas.
+Criação de bases de conhecimento e padronização de processos: agilizando a resolução de problemas e promovendo maior eficiência operacional.
+Desenvolvimento de análises proativas e monitoramento detalhado: identificando e resolvendo falhas antes que afetassem as operações.
+Automatização de tarefas rotineiras: reduzindo custos e minimizando o tempo de inatividade com soluções inovadoras e personalizadas.
+Atualmente, estou em transição para a área de dados, com o objetivo de alavancar minha experiência técnica e meu conhecimento em análise para contribuir com soluções baseadas em dados que gerem impacto positivo nas organizações. Sou motivado por desafios e por ambientes dinâmicos, onde posso combinar criatividade e habilidades analíticas para entregar resultados significativos.
   
 - 📫 Você me achará através do E-mail: **wesley.rafael09@gmail.com**
 
